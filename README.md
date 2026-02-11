@@ -12,4 +12,4 @@ Il sito web è suddiviso in due sezioni: una pagina di presentazione e la sezion
 La sezione di gioco, invece, è stata realizzata utilizzando gli stessi linguaggi citati in precedenza, ma con l'aggiunta di un elemento particolare: il Canvas di HTML5. Questo strumento consente di disegnare grafici, forme e immagini all'interno della pagina web, rendendo il gioco ancora più coinvolgente e interattivo.
 
 WHO ARE WE?
-Siamo due studenti dell' istituto Blaise Pascal di Reggio Emilia, se ci volete contattare su istagram ci chiamiamo rispettivamente: @alleiori_ , @whatisloveGal
+Siamo due studenti dell' istituto Blaise Pascal di Reggio Emilia, se ci volete contattare su istagram ci chiamiamo rispettivament: @alleiori_ , @whatisloveGal
